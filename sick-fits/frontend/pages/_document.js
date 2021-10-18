@@ -13,7 +13,7 @@ export default class MyDocument extends Document {
 
   render() {
     return (
-      <Html lang="en-US">
+      <Html lang="en-CA">
         <Head />
         <body>
           <Main />
