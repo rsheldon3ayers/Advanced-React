@@ -20,7 +20,7 @@ export default function useForm(initial = {}) {
     }
 
     setInputs({
-      // copy existing date
+      // copy existing data
       ...inputs,
       [name]: value,
     });
